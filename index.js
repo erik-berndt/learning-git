@@ -1,2 +1,2 @@
-console.log("Hallo Verena");
+console.log("Hallo alle und github");
 
